@@ -16,7 +16,9 @@ namespace Caffe_Manager_software
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmLogin());
-            Application.Run(new frmAdmin());
+            Application.Run(new frmAdmin());      
+
+            List<NhanVien> memberList = new List<NhanVien>();
         }
     }
 }

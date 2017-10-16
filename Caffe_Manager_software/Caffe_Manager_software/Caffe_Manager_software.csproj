@@ -58,6 +58,7 @@
     <Compile Include="FromAdmin.Designer.cs">
       <DependentUpon>FromAdmin.cs</DependentUpon>
     </Compile>
+    <Compile Include="NhanVien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormLogin.resx">
