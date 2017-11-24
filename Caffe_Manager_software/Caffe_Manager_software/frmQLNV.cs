@@ -9,11 +9,18 @@ using System.Windows.Forms;
 
 namespace Caffe_Manager_software
 {
-    public partial class frmQLNV : Form
+    public partial class FrmQLNV: Form
     {
-        public frmQLNV()
+        public FrmQLNV()
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+       
     }
 }

@@ -71,6 +71,9 @@
     <EmbeddedResource Include="FormLogin.resx">
       <DependentUpon>FormLogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmQLNV.resx">
+      <DependentUpon>frmQLNV.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FromAdmin.resx">
       <DependentUpon>FromAdmin.cs</DependentUpon>
     </EmbeddedResource>

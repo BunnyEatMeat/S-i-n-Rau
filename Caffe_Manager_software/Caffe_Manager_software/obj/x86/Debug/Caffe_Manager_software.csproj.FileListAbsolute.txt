@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.frmLogin.resources
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.FrmQLNV.resources
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.frmAdmin.resources
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\bin\Debug\Caffe_Manager_software.exe
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\bin\Debug\Caffe_Manager_software.pdb
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.exe
+C:\Users\HP\Desktop\New folder (2)\Caffe_Manager_software\Caffe_Manager_software\obj\x86\Debug\Caffe_Manager_software.pdb
